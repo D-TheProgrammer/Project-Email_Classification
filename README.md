@@ -1,5 +1,5 @@
 # Project-Email_Classification
-[French] Classification d'email en spam et non-spam 
+[French] Classification d'email en spam et non-spam  
 [English] Email classification into spam and non-spam
 
 ---
